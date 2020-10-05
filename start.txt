@@ -1,0 +1,17 @@
+RUN DJANGO SERVER : 
+
+Install Django From the Following Command
+-> pip install django djangorestframework django-cors-headers
+
+Run the Django SERVER
+-> python manage.py runserver
+
+Note : The python server runs in localhost port 8000
+
+
+RUN FRONTEND :
+-> cd frontend 
+-> npm install
+-> npm start
+
+Note : The react frontend will run in localhost port 3000
